@@ -62,13 +62,13 @@ author:
   name   : "Carlos Chunga"
   avatar : "/assets/images/cc.jpg"
   bio    : "Economist and Data Scientist in Process."
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/caproki"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/carloschunga"
+#  links:
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/caproki"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/carloschunga"
 
 defaults:
   # _posts
